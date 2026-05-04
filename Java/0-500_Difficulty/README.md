@@ -4,9 +4,13 @@ This folder contains CodeChef solutions with a difficulty rating between **0 and
 
 ## 📋 Problem List
 
-| # | Problem Code | Problem Name | Difficulty | Solution File |
-|---|-------------|--------------|------------|---------------|
-| 1 | | | | |
+| # | Problem Name | Difficulty |
+|---|--------------|------------|
+| 1 | Cricket World Cup Qualifier | 203 |
+| 2 | Lucky Seven | 213 |
+| 3 | Clear Day | 233 |
+| 4 | Double Rent | 234 |
+| 5 | Saving Taxes | 252 | 
 
 
 ## 📌 About This Difficulty Range
