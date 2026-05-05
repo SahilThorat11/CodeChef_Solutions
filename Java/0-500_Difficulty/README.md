@@ -11,6 +11,9 @@ This folder contains CodeChef solutions with a difficulty rating between **0 and
 | 3 | Clear Day | 233 |
 | 4 | Double Rent | 234 |
 | 5 | Saving Taxes | 252 | 
+| 6 | Masterchef finals | 255 |
+| 7 | Biryani classes | 257 |
+| 8 | Chef Plays Ludo | 260 |
 
 
 ## 📌 About This Difficulty Range
