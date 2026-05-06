@@ -19,7 +19,6 @@ class Codechef
 		    {
 		        System.out.println(N - M);   
 		    }
-		    
 		    else 
 		    {
 		        System.out.println(0);
