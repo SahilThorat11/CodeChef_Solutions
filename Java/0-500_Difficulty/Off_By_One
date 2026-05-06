@@ -1,0 +1,20 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    Scanner sobj = new Scanner(System.in);
+	    
+		int A = 0, B = 0;
+		
+		A = sobj.nextInt();
+		B = sobj.nextInt();
+		
+		int sum = A + B;
+		
+		System.out.println(sum * 10 + 1);
+	}
+}
