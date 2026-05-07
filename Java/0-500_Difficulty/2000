@@ -1,0 +1,17 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+	    int N = sobj.nextInt();
+	    
+	    System.out.println((N * 2000) / 500);
+		 
+		
+	}
+}
