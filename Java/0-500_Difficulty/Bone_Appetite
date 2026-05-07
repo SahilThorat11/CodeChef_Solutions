@@ -1,0 +1,19 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+   
+class Codechef 
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+		int N = sobj.nextInt();
+		int M = sobj.nextInt();
+		
+		int X = sobj.nextInt();
+		int Y = sobj.nextInt();
+		
+		System.out.println((N * X) + (M * Y));
+	}
+}
