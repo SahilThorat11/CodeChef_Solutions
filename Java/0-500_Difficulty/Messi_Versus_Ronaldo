@@ -1,0 +1,28 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+		int A = sobj.nextInt(), B = sobj.nextInt(), X = sobj.nextInt(), Y = sobj.nextInt();
+		
+		if(((A * 2) + (B * 1)) > ((X * 2) + (Y * 1)))
+		{
+		    System.out.println("Messi");
+		}
+		
+		else if(((A * 2) + (B * 1)) < ((X * 2) + (Y * 1)))
+		{
+		    System.out.println("Ronaldo");
+		}
+		
+		else
+		{
+		    System.out.println("Equal");
+		}
+	}
+}
