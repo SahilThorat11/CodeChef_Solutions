@@ -1,0 +1,28 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+	    Scanner sobj = new Scanner(System.in);
+	    
+		int N = sobj.nextInt();
+		
+		while(N > 0)
+		{
+    		int arr[] = new int[3];
+    		
+    		arr[0] = sobj.nextInt();
+    		arr[1] = sobj.nextInt();
+    		arr[2] = sobj.nextInt();
+    		
+    		Arrays.sort(arr);
+    		
+    		System.out.println(arr[1]);
+    		
+    		N--;
+		}
+	}
+}
