@@ -1,0 +1,28 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+		int X = sobj.nextInt();
+		
+		if(X < 3)
+		{
+		    System.out.println("GOLD");
+		}
+		
+		else if((X >= 3) && (X < 6))
+		{
+		    System.out.println("SILVER");
+		}
+		
+		else 
+		{
+		    System.out.println("BRONZE");   
+		}
+	}
+}
