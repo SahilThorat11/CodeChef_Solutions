@@ -1,0 +1,35 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+		int t = sobj.nextInt();
+		
+		while(t > 0)
+		{
+		    int x = sobj.nextInt();
+		    
+		    if(x <= 70)
+		    {
+		        System.out.println(0);
+		    }
+		    
+		    else if((x > 70) && (x <= 100))
+		    {
+		        System.out.println(500);
+		    }
+		    
+		    else 
+		    {
+		        System.out.println(2000);
+		    }
+		    
+		    t--;
+		}
+	}
+}
