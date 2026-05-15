@@ -1,0 +1,31 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sobj = new Scanner(System.in);
+		
+		int t = sobj.nextInt();
+		
+		while(t > 0)
+		{
+		    int x1 = sobj.nextInt(), y1 = sobj.nextInt();
+		    int x2 = sobj.nextInt(), y2 = sobj.nextInt();
+		    
+		    if((x1 + y1) < (x2 + y2))
+		    {
+		        System.out.println(x1 + y1);
+		    }
+		    
+		    else
+		    {
+		        System.out.println(x2 + y2);
+		    }
+		     
+		    t--;
+		}
+	}
+}
