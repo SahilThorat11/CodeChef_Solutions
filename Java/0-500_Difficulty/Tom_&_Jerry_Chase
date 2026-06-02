@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+public class Tom_And_Jerry_Chase
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

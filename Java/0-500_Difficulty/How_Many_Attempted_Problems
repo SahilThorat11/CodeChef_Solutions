@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+class How_Many_Attempted_Problems
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{

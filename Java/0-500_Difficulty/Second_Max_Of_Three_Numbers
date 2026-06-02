@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+class Second_Max_Of_Three_Numbers
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
